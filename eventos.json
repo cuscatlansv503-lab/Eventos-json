@@ -1,12 +1,12 @@
 [
-    {
-        "id": "4283678_",
-        "nombre": "Video de Acción",
-        "poster": "https://via.placeholder.com/120x80/000/fff?text=Video+1"
-    },
-    {
-        "id": "5294789_",
-        "nombre": "Video de Comedia",
-        "poster": "https://via.placeholder.com/120x80/000/fff?text=Video+2"
-    }
+  {
+    "id": "4325703_",
+    "nombre": "Nombre del Video 1",
+    "poster": "https://imagen.com/foto1.jpg"
+  },
+  {
+    "id": "4283026_",
+    "nombre": "Nombre del Video 2",
+    "poster": "https://imagen.com/foto2.jpg"
+  }
 ]
