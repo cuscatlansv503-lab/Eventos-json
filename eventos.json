@@ -1,62 +1,58 @@
 [
   {
-    "id": "4199928_",
-    "nombre": "1. FC Colonia vs VfL Wolfsburgo",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/ger.png"
+    "id_transmision": "4199656",
+    "nombre_local": "F. C. Augsburgo",
+    "nombre_visitante": "St. Pauli",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/db4411a3c4ce1d0f092f5b9d1df08664.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/65503b155488a643de688e8dfa849b1f.png!w80"
   },
   {
-    "id": "4212762_",
-    "nombre": "R Sociedad B vs Las Palmas",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
+    "id_transmision": "4199681",
+    "nombre_local": "TSG 1899 Hoffenheim",
+    "nombre_visitante": "F. C. Unión Berlín",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80"
   },
   {
-    "id": "4225003_",
-    "nombre": "Arenteiro vs Athletic Club B",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
+    "id_transmision": "4199924",
+    "nombre_local": "Eintracht Fráncfort",
+    "nombre_visitante": "Bayer 04 Leverkusen",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/fe636189a2f3db78d0554c34f0bdaae6.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80"
   },
   {
-    "id": "4244620_",
-    "nombre": "Bari vs Palermo",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/ita.png"
+    "id_transmision": "4199925",
+    "nombre_local": "Werder Bremen",
+    "nombre_visitante": "Borussia Mönchengladbach",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/82e3b03a1df3d7ae3d38e9fdd24fe622.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/89cdadf6cf1eb6f8d2507de1e01f806c.png!w80"
   },
   {
-    "id": "4194693_",
-    "nombre": "S.S. Lazio vs Genoa",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/ita.png"
+    "id_transmision": "4199927",
+    "nombre_local": "RB Leipzig",
+    "nombre_visitante": "1. FSV Mainz 05",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/903089d338485f6c68fbc5da690a0628.png!w80"
   },
   {
-    "id": "4200300_",
-    "nombre": "R. C. Lens vs Le Havre",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/fra.png"
+    "id_transmision": "4193948",
+    "nombre_local": "Wolverhampton Wanderers",
+    "nombre_visitante": "Bournemouth",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/240b30d333c97d293752ab7afd77ccd6.png!w80"
   },
   {
-    "id": "4227195_",
-    "nombre": "St Johnstone vs Partick Thistle",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/sco.png"
+    "id_transmision": "4193952",
+    "nombre_local": "Brighton & Hove Albion FC",
+    "nombre_visitante": "Everton",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/9592d1e0be6375b9e6c5ef169b7aa864.png!w80"
   },
   {
-    "id": "4203713_",
-    "nombre": "Bristol City vs Derby",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/eng.png"
-  },
-  {
-    "id": "4209789_",
-    "nombre": "Royal Espanyol vs Alavés",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
-  },
-  {
-    "id": "4255267_",
-    "nombre": "Marseillaises Women vs Paris FC F",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/fra.png"
-  },
-  {
-    "id": "4228732_",
-    "nombre": "Hércules vs Cartagena",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
-  },
-  {
-    "id": "4216170_",
-    "nombre": "Vitoria Guimaraes vs Moreirense",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/por.png"
+    "id_transmision": "4193976",
+    "nombre_local": "Leeds Utd",
+    "nombre_visitante": "Arsenal",
+    "logo_local": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/1d7680c902207ad6cc3a40bc5125bdf5.png!w80",
+    "logo_visitante": "https://logos1.tcgsf41d4.xyz/aelogo/football/team/d6f5debc456da1119256ab66462ab510.png!w80"
   }
 ]
