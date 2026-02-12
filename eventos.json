@@ -1,36 +1,5 @@
 [
   {
-    "id": "4327927_",
-    "nombre": "Alianza Lima vs Club Sportivo 2 de Mayo",
-    "imagen": ""
-  },
-  {
-    "id": "4319422_",
-    "nombre": "Club América vs Olimpia",
-    "imagen": ""
-  },
-  
-  {
-    "id": "4348602_",
-    "nombre": "Real Estelí vs Diriangén",
-    "imagen": ""
-  },
-  {
-    "id": "4331467_",
-    "nombre": "La Equidad vs Deportivo Cali",
-    "imagen": ""
-  },
-  {
-    "id": "4353516_",
-    "nombre": "fafage banua vs kuda laut nusantara",
-    "imagen": ""
-  },
-  {
-    "id": "4319599_",
-    "nombre": "Monterrey vs Xelajú",
-    "imagen": ""
-  },
-  {
     "id": "4193921_",
     "nombre": "Brentford vs Arsenal",
     "imagen": ""
@@ -43,7 +12,7 @@
   {
     "id": "4349947_",
     "nombre": "Atlético Madrid vs FC Barcelona",
-    "imagen": ""
+    "imagen": "https://files.catbox.moe/09a0n2.png"
   },
   {
     "id": "4331473_",
