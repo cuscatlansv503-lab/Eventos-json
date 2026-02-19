@@ -5,56 +5,15 @@
     "nombre": "Murcia vs Barcelona",
     "imagen": ""
   },
-  {
-    "id": "4240210_",
-    "nombre": "Catania FC vs Trapani",
-    "imagen": ""
-  },
-  {
-    "id": "4194691_",
-    "nombre": "AC Milan vs Como",
-    "imagen": ""
-  },
-  {
-    "id": "4343213_",
-    "nombre": "Aberdeen vs Motherwell",
-    "imagen": ""
-  },
+  
+ 
   {
     "id": "4356840_",
     "nombre": "offs vs Multichampions (18/02/26)",
     "imagen": ""
   },
-  {
-    "id": "4194063_",
-    "nombre": "Wolverhampton Wanderers vs Arsenal",
-    "imagen": ""
-  },
-  {
-    "id": "4343168_",
-    "nombre": "Arsenal F vs Leuven F",
-    "imagen": ""
-  },
-  {
-    "id": "4348672_",
-    "nombre": "Olympiacos vs Bayer 04 Leverkusen",
-    "imagen": ""
-  },
-  {
-    "id": "4349514_",
-    "nombre": "Bodo/Glimt vs Inter de Milán",
-    "imagen": ""
-  },
-  {
-    "id": "4349520_",
-    "nombre": "Club Brujas vs Atlético Madrid",
-    "imagen": ""
-  },
-  {
-    "id": "4325801_",
-    "nombre": "O'Higgins vs Bahia",
-    "imagen": ""
-  },
+  
+  
   {
     "id": "4336309_",
     "nombre": "National Defense Forces vs Philadelphia Union",
@@ -73,6 +32,16 @@
   {
     "id": "4321439_",
     "nombre": "Universidad O&M vs Cincinnati",
+    "imagen": ""
+  },
+ {
+    "id": "4353719_",
+    "nombre": "Real Estelí vs HYH Export Sebaco FC",
+    "imagen": ""
+  },
+  {
+    "id": "4339897_",
+    "nombre": "Cartaginés vs Vancouver Whitecaps",
     "imagen": ""
   }
 ]
