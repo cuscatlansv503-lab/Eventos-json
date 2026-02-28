@@ -1,115 +1,5 @@
 [
   {
-    "id": "4336311_",
-    "nombre": "Philadelphia Union vs National Defense Forces",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4359818_",
-    "nombre": "Curacao U20 vs st Vincent the Grenadine U20",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4324083_",
-    "nombre": "Flamenco vs Lanús",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/4fc69121082a49a28c1a.png"
-  },
-  {
-    "id": "4331627_",
-    "nombre": "Millonarios vs Pereira",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/col.png"
-  },
-  {
-    "id": "4358547_",
-    "nombre": "Tolima vs Dep. Táchira",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/4fc69121082a49a28c1a.png"
-  },
-  {
-    "id": "4359471_",
-    "nombre": "NicaraguaU20 vs Martinique U20",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4360172_",
-    "nombre": "Real Estelí vs Real Madriz",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/nca.png"
-  },
-  {
-    "id": "4360225_",
-    "nombre": "Ind. del Valle vs Inter Miami",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/212d0fff3a73d391f2ab.png"
-  },
-  {
-    "id": "4194777_",
-    "nombre": "Parma vs Cagliari",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/ita.png"
-  },
-  {
-    "id": "4199002_",
-    "nombre": "St. Lieja vs LaLouviere",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/bel.png"
-  },
-  {
-    "id": "4200283_",
-    "nombre": "Racing Estrasburgo vs R. C. Lens",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/fra.png"
-  },
-  {
-    "id": "4194009_",
-    "nombre": "Wolverhampton Wanderers vs Aston Villa",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/eng.png"
-  },
-  {
-    "id": "4203694_",
-    "nombre": "Bristol City vs Watford",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/eng.png"
-  },
-  {
-    "id": "4209841_",
-    "nombre": "Levante Union Deportiva vs Alavés",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
-  },
-  {
-    "id": "4244670_",
-    "nombre": "U. C. Sampdoria vs Bari",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/ita.png"
-  },
-  {
-    "id": "4341328_",
-    "nombre": "Alianza Atl vs AD Tarma",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/per.png"
-  },
-  {
-    "id": "4359210_",
-    "nombre": "Belize U20 vs French Guiana U20",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4216041_",
-    "nombre": "Sporting CP vs Estoril",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/por.png"
-  },
-  {
-    "id": "4330166_",
-    "nombre": "Cobresal vs La Serena",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/chi.png"
-  },
-  {
-    "id": "4360001_",
-    "nombre": "Dominican Republic U20 vs British Virgin Islands U20",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4360039_",
-    "nombre": "Puerto Rico U20 vs Turks Caicos Islands U20",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
-  },
-  {
-    "id": "4225090_",
-    "nombre": "Tenerife vs Real Avilés",
-    "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/esp.png"
-  },
-  {
     "id": "4341195_",
     "nombre": "Melgar vs Los Chankas",
     "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/per.png"
@@ -133,5 +23,65 @@
     "id": "4359758_",
     "nombre": "Cayman Islands U20 vs Jamaica Sub-20",
     "imagen": "https://logos1.tcgsf41d4.xyz/aelogo/country/de5bac5269d07f3f3163.png"
+  },
+  {
+    "id": "4322473_",
+    "nombre": "Mazatlán vs Pachuca",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
+  },
+  {
+    "id": "4322474_",
+    "nombre": "Querétaro vs Santos Laguna",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
+  },
+  {
+    "id": "4324786_",
+    "nombre": "Correcaminos UAT vs Tapatio",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
+  },
+  {
+    "id": "4324854_",
+    "nombre": "Mineros vs Venados",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
+  },
+  {
+    "id": "4339955_",
+    "nombre": "Gimnasia y Tiro vs Almagro",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/arg.png"
+  },
+  {
+    "id": "4361666_",
+    "nombre": "Costa Rica F vs Brasil F",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/212d0fff3a73d391f2ab.png"
+  },
+  {
+    "id": "4341221_",
+    "nombre": "Deportivo Garcilaso vs Cienciano",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/per.png"
+  },
+  {
+    "id": "4331507_",
+    "nombre": "Once Caldas vs Boyacá Chicó",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/col.png"
+  },
+  {
+    "id": "4359199_",
+    "nombre": "Grenada U20 vs El Salvador Sub-20",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/de5bac5269d07f3f3163.png"
+  },
+  {
+    "id": "4322458_",
+    "nombre": "Juárez vs Atlas",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
+  },
+  {
+    "id": "4346219_",
+    "nombre": "Hume City vs Bentleigh",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/aus.png"
+  },
+  {
+    "id": "4322464_",
+    "nombre": "Tijuana vs Pumas UNAM",
+    "imagen": "https://logos1.tctrf551psv.xyz/aelogo/country/mex.png"
   }
 ]
